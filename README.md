@@ -3,11 +3,11 @@
 ## Tasks To Do
 
 - Please add the "decrement" function into the Motoko code and the frontend code to allow click the `Decrement` button to decrease the counter.
-- My ICP Account Principal ID: [                                       ]
-- My ICP Ledger Account ID: [                                       ]
+- My ICP Account Principal ID: [ xrjus-goan3-bx6q3-u6xnc-7dhmn-7hcuu-r5tvc-miyyv-5n3vy-6bejt-vqe ]
+- My ICP Ledger Account ID: [ 29f590322786cd702f7b74629304715a8744e611a10ddb2438c42edbe078ff7e ]
 
 ## Get Started
-
+b
 To get started with Gitpod, click the button below:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/onimusya/my_counter_app)
